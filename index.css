@@ -4,4 +4,5 @@ h1, h2, h3, em
 	display:flex;
 	justify-content:center;
 	align-items:center;	
+	width:80%;
 }
