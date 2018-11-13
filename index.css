@@ -1,8 +1,9 @@
 
-h1, h2, h3, em
+h1, h2, h3, em, p
 {
 	display:flex;
-	justify-content:center;
-	align-items:center;	
-	width:80%;
+	width:400px;
+	margin:auto;
+	padding:40px;
+	text-align:justify;
 }
